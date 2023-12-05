@@ -3,7 +3,6 @@ NLayer.API
 ![](NLayer.API/NlayerApı.png)
 
 Swagger(GET{id}-GET-PUT-DELETE)
-![](NLayer.API/NLayerVİsual.png)
 ![](NLayer.API/Categoryıd.png)
 ![](NLayer.API/Apıproductıd.png)
 ![](NLayer.API/ApıProduct.png)
